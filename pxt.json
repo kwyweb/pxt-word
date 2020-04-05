@@ -1,0 +1,15 @@
+{
+    "name": "word",
+    "version": "0.0.1",
+    "description": "Display Text on screen",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/word-strings.json"
+    ],
+    "public": true
+}
