@@ -1,4 +1,4 @@
 {
     "word|block": "文字內容",
-    "work.createTextSprite": "顯示文字 內容%text|文字顏色 %fg|背景顏色 %bg"
+    "work.createTextSprite": "顯示文字 內容 %text|文字顏色 %fg|背景顏色 %bg"
 }
