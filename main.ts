@@ -1,4 +1,4 @@
-//% weight=0 color=#3CB371 icon="\uf6af" block="Word "
+//% weight=0 color=#3CB371 icon="\uf36d" block="Word "
 namespace word {
     /**
     * Create text content to display on scree.
